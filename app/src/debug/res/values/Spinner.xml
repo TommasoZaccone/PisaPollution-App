@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_values">
+        <item>CO</item>
+        <item>O3</item>
+        <item>NO2</item>
+        <item>SO2</item>
+        <item>PM1</item>
+        <item>PM2_5</item>
+        <item>PM10</item>
+    </string-array>
+</resources>
